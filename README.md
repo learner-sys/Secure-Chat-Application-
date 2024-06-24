@@ -1,1 +1,2 @@
-# Secure-Chat-Application-
+# Secure-Chat-Application
+The project aims to create a secure chat application in Python that enables secure communication over a network. It should incorporate cryptographic algorithms, and robust security measures to protect user confidentiality and integrity. The project requires user sign-up, verification, encryption, and integrity. An attacker can gain access by guessing passwords and reading messages. A user-friendly interface, providing features like message history, contact lists, and real-time updates. Network programming concepts are used to establish communication channels between clients and servers.
